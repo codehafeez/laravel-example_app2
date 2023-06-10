@@ -1,4 +1,4 @@
-# PHP Laravel Extends, Section, Yield => Example View Layout
+# PHP Laravel Components Card
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.codehafeez.com/)
 
@@ -14,7 +14,8 @@ php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-example_app1/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-example_app2/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-example_app2/main/Screenshots/Output-02.png)
 
 
 ## 🔗 www.codehafeez.com
